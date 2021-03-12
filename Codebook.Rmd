@@ -29,7 +29,7 @@ README describes what the entire projects is about, for whom and for what purpos
 
 ### [Wrangled Data.csv]{.ul}
 
-This is the output after ingesting ***Book1.xlsx*** (input data) into ***Zimbabwe_format.R*** (algorithm). Basically, is the results of the project.
+This is the output after ingesting ***Book1.xlsx*** (input data) into ***Zimbabwe_format.R*** (algorithm). Basically, it is the results of the project.
 
 ### [Zim_format.R]{.ul}
 
