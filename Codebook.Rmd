@@ -1,0 +1,44 @@
+---
+title: "Codebook"
+author: "Stephen Aboagye-Ntow"
+date: "3/12/2021"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+## [Introduction]{.ul}
+
+The file is an aftermath of the readme file. it describes the files contained in this repository.
+
+### [Book1.xlsx]{.ul}
+
+Book one contains the input data to algorithm in the file ***Zimbabwe_format.R***. In essence, its the data to be wrangled.
+
+### [Codebook.pdf]{.ul}
+
+This is the file you are reading now.
+
+### [Codebook.Rmd]{.ul}
+
+This creates the file ***Codebook.pdf***.
+
+### [README.md]{.ul}
+
+README describes what the entire projects is about, for whom and for what purpose
+
+### [Wrangled Data.csv]{.ul}
+
+This is the output after ingesting ***Book1.xlsx*** (input data) into ***Zimbabwe_format.R*** (algorithm). Basically, is the results of the project.
+
+### [Zim_format.R]{.ul}
+
+Zim_format.R is a somehow crude and very unprofessional ersion of ***Zimbabwe_format.R***. This doesn't translate the latter is heavly efficient and faster but just fairly efficient.
+
+### [Zimbabwe_Met_For_Rainwatch.Rproj]{.ul}
+
+This is the project itself as created in R. It is the project file.
+
+### [Zimbabwe_format.R]{.ul}
+
+This is my version of what is appropriate of the two files: ***Zim_format.R*** and ***Zimbabwe_format.R***. Although crude, its a little better than ***Zim_format.R***
